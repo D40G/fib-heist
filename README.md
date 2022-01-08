@@ -29,6 +29,8 @@ You can add or remove the number of peds, the cabinets we can search and all
 2. UTK hack dependencies (https://forum.cfx.re/t/finger-print-hacking-mini-game-standalone/1185122)
 3. qb-lockpick 
 4. qb-core
+# Preview: 
+https://youtu.be/2IjYl1mQ93g
 # help
 If any confusion arises you can join discord and get help
 Discord: https://discord.gg/gkAHQtQ
